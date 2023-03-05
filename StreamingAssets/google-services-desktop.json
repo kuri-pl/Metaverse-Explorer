@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "126855111356",
+    "project_id": "ai-explorer2023",
+    "storage_bucket": "ai-explorer2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126855111356:android:b870d52179d6e854c366b9",
+        "android_client_info": {
+          "package_name": "com.nagaregames.AIexplorer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126855111356-aha67451u6p6le1jsp9slkilpvminsnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQessP7dO9_u-H8KZLgSdfNoBGAvrBhL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126855111356-aha67451u6p6le1jsp9slkilpvminsnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

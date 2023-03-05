@@ -1,2 +1,2 @@
-# Metaverse-Explorer
- Demo metaverse explorer
+# Metaverse
+ metaverse
