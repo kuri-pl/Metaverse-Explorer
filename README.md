@@ -1,6 +1,6 @@
 # Responsive Unity Template
 
-`Source: https://github.com/JohannesDeml/UnityWebGL-LoadingTest`
+`Source: https://kuripl.github.io/Metaverse-Explorer/`
 
 Responsive template for Unity 2020+. Ready for publishing, with nice loading screen and responsive layout.
 
